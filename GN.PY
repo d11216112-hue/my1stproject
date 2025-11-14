@@ -5,6 +5,7 @@ def guess_number_game():
     attempts = 0
     print("歡迎來到猜數字遊戲！我已經選好了一個1到100之間的數字。")
     
+    
     while True:
         user_input = input("請輸入你的猜測（或輸入'q'退出遊戲）：")
         
